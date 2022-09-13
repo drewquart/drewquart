@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @drewquart
+- 👀 I’m interested in Software Development, Data Science, & Game Development
+- 🧠 I have experience in Java, Python, C++, Javascript & SQL
+- 🌱 I’m currently learning Python Intermediate, Javascript, SQL, & HTML/CSS
+- 💞️ I’m looking to collaborate on Beginning to Intermediate Python Projects
+- 📫 How to reach me
+- 📩 Email: drewquart@gmail.com
+- 🦠 Discord: @drewquart
+- 🖥 LinkedIn: linkedin.com/in/andrew-quartuccio
